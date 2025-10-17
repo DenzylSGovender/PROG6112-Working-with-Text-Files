@@ -37,7 +37,10 @@ Write a program that:
 2. Splits each line using a comma `,`.
 3. Displays each student’s name and grade in a neat, readable format:
 
-# Challenge 
+---
+---
+---
+# Challenge yourself 
 ### Theme: Using JFrame Buttons to Create and Write to a File  
 
 ## 🎯 Objective
